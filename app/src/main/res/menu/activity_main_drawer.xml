@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/makanandaerah"
+            android:icon="@drawable/kitchenpack"
+            android:title="Makanan Daerah" />
+        <item
+            android:id="@+id/minuman"
+            android:icon="@drawable/cocktail"
+            android:title="Aneka Minuman" />
+        <item
+            android:id="@+id/kuebasah"
+            android:icon="@drawable/cakeslice"
+            android:title="Aneka Kue Basah" />
+    </group>
+
+
+
+</menu>
